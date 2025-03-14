@@ -3,7 +3,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 🚀 Please check out our survey paper [ Diffusion Policy in Robotic Manipulation](https://arxiv.org/abs/2311.01223)
 
-![image info](./timeline.png)
+![image info](./timeline2-1.png)
 
 ## 📑Table of Contents
 - 🤖[Diffusion Policy in Robotic Manipulation](#diffusion-policy-in-robotic-manipulation)
