@@ -278,7 +278,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 
 
-## Citation
+## 📜Citation
 ```
 @article{,
   title={Diffusion Policy in Robotic Manipulation},
