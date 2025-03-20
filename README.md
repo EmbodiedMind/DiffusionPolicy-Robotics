@@ -1,7 +1,7 @@
 # Diffusion Policy in Robotic Manipulation
 This repository contains a collection of resources and papers on ***Diffusion Models*** for ***Robotic Manipulation***.
 
-🚀 Please check out our survey paper [ Diffusion Policy in Robotic Manipulation](https://arxiv.org/abs/2311.01223)
+🚀 Please check out our survey paper [ Diffusion Policy in Robotic Manipulation](https://arxiv.org/abs/)
 
 ![image info](./timeline2-1.png)
 
