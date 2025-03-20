@@ -254,28 +254,6 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 - **Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2307.01849)]
 
 
-### Uncategorized
-
-#### Others
-
-
-
-
-
-- **SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields**, CoRL 2022. [[paper](https://arxiv.org/abs/2211.09786)] [[code](https://github.com/anthonysimeonov/relational_ndf)]
-- **Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation**, ICRA 2022. [[paper](https://arxiv.org/abs/2112.05124)] [[code](https://github.com/anthonysimeonov/ndf_robot)]
-- **Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection**, ICRA 2023. [[paper](https://arxiv.org/abs/2211.00191)] [[code](https://github.com/HaojHuang/Edge-Grasp-Network)]
-- **Local Neural Descriptor Fields: Locally Conditioned Object Representations for Manipulation**, ICRA 2023. [[paper](https://arxiv.org/abs/2302.03573)] [[code](https://github.com/elchun/lndf_robot)]
-- **Robot Manipulation Task Learning by Leveraging SE(3) Group Invariance and Equivariance**, arXiv 2023. [[paper](https://arxiv.org/abs/2308.14984)]
-- **Geometric Algebra Transformer**, NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.18415)] [[code](https://github.com/Qualcomm-AI-research/geometric-algebra-transformer)]
-- **Implicit Behavioral Cloning**, CoRL 2021. [[paper](https://arxiv.org/abs/2109.00137)] [[code](https://github.com/google-research/ibc)]
-- **EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**, ICRA 2024. [[paper](https://arxiv.org/abs/2310.16050)]
-- **EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction**, arXiv 2023. [[paper](https://arxiv.org/abs/2308.06564)]
-- **Symmetric Models for Visual Force Policy Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2308.14670)]
-- **Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**, ICLR 2024. [[paper](https://arxiv.org/abs/2312.13139)] [[code](https://github.com/bytedance/GR-1)]
-
-
-
 
 
 ## 📜Citation
