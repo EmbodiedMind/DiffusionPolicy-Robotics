@@ -1,6 +1,5 @@
 # Survey on Diffusion Policy for Robotic Manipulation
 
-![image info](./timeline.png)
 Since 2022, research on diffusion policies for robotic manipulation has consistently shown superior performance over traditional methods in various tasks.
 
 <img src="./number_of_paper_page.jpg" alt="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." title="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." width="400" />
@@ -11,6 +10,7 @@ Despite this growing body of work, there is a significant gap in comprehensive s
 📍To bridge this gap, we present the **first comprehensive analysis of diffusion policies for robotic manipulation**
 
 🚀 For a deeper dive, please check out our [survey paper](https://arxiv.org/abs/) **A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions** 
+![image info](./timeline.png)
 
 ## 📑Table of Contents
 - 🤖[Survey on Diffusion Policy for Robotic Manipulation](#survey-on-diffusion-policy-for-robotic-manipulation)
