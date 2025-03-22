@@ -1,6 +1,5 @@
 # A Survey on Diffusion Policy for Robotic Manipulation
-## Abstract
-Robotic manipulation systems face challenges in learning effective control policies within complex action spaces and uncertain environments. Recently, diffusion models—originally developed for image generation—have emerged as a promising approach for robotic policy learning. Their ability to model complex multimodal distributions and generate diverse, high-quality outputs positions them as an exciting advancement in the field.
+
 ![image info](./timeline.png)
 Since 2022, research on diffusion policies for robotic manipulation has consistently shown superior performance over traditional methods in various tasks.
 
@@ -9,7 +8,7 @@ Since 2022, research on diffusion policies for robotic manipulation has consiste
 
 Despite this growing body of work, there is a significant gap in comprehensive survey papers that thoroughly analyze this rapidly evolving field. 
 
-To bridge this gap, we present the 📍**first comprehensive analysis of diffusion policies for robotic manipulation**
+📍To bridge this gap, we present the **first comprehensive analysis of diffusion policies for robotic manipulation**
 
 🚀 For a deeper dive, please check out our survey paper [A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions](https://arxiv.org/abs/).
 
