@@ -258,30 +258,8 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 ## 🛠️Simulation Platform & Real Robot
 
 ### Simulation Platform
-<style>
-  table.custom-table {
-    border-collapse: collapse;
-    width: 100%;
-    font-family: sans-serif;
-  }
-  table.custom-table th,
-  table.custom-table td {
-    padding: 8px 12px;
-    text-align: left;
-    border: none;
-  }
-  table.custom-table thead {
-    font-weight: bold;
-    background-color: #f9f9f9;
-  }
-  table.custom-table tbody tr:nth-child(even) {
-    background-color: #f4f4f4;
-  }
-  .links a {
-    margin-right: 5px;
-    text-decoration: none;
-    color: #0077cc;
-  }
+
+
 </style>
 <table class="custom-table">
   <thead>
