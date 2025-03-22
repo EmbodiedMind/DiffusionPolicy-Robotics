@@ -3,7 +3,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 🚀 Please check out our survey paper [ Diffusion Policy in Robotic Manipulation](https://arxiv.org/abs/)
 
-![image info](./timeline2-1.png)
+![image info](./timeline.png)
 
 ## 📑Table of Contents
 - 🤖[Diffusion Policy in Robotic Manipulation](#diffusion-policy-in-robotic-manipulation)
@@ -23,6 +23,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
+  - 🛠️[Simulation Platform & Real Robot](#simulation-platform--real-robot)
   - 📜[Citation](#citation)
 
 ##  📖Papers
@@ -254,6 +255,297 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 - **Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2307.01849)]
 
 
+## 🛠️Simulation Platform & Real Robot
+
+### Simulation Platform
+<style>
+  table.custom-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+  }
+  table.custom-table th,
+  table.custom-table td {
+    padding: 8px 12px;
+    text-align: left;
+    border: none;
+  }
+  table.custom-table thead {
+    font-weight: bold;
+    background-color: #f9f9f9;
+  }
+  table.custom-table tbody tr:nth-child(even) {
+    background-color: #f4f4f4;
+  }
+  .links a {
+    margin-right: 5px;
+    text-decoration: none;
+    color: #0077cc;
+  }
+</style>
+<table class="custom-table">
+  <thead>
+    <tr>
+      <th>Platform</th>
+      <th>Physics Engine</th>
+      <th>Robot</th>
+      <th>Views</th>
+      <th>Tasks</th>
+      <th>Episodes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Meta-World<br>
+        <span class="links">
+          <a href="https://github.com/Farama-Foundation/Metaworld">[code]</a>
+          <a href="https://arxiv.org/abs/1910.10897">[paper]</a>
+        </span>
+      </td>
+      <td>MuJoCo</td>
+      <td>4-DOF Sawyer</td>
+      <td>behindGripper, corner, topview, gripperPOV</td>
+      <td>50</td>
+      <td>5K</td>
+    </tr>
+    <tr>
+      <td>
+        RLBench<br>
+        <span class="links">
+          <a href="https://github.com/stepjam/RLBench">[code]</a>
+          <a href="https://arxiv.org/abs/1909.12271">[paper]</a>
+        </span>
+      </td>
+      <td>V-REP</td>
+      <td>7-DOF UR5, 6-DOF Mico, 6-DOF Jaco, 6-DOF Sawyer</td>
+      <td>left shoulder, right shoulder, wrist, front</td>
+      <td>18</td>
+      <td>1.8K</td>
+    </tr>
+    <tr>
+      <td>
+        DEDO<br>
+        <span class="links">
+          <a href="https://github.com/contactrika/dedo">[code]</a>
+          <a href="https://openreview.net/forum?id=WcY35wjmCBA">[paper]</a>
+        </span>
+      </td>
+      <td>PyBullet</td>
+      <td>7-DoF Franka</td>
+      <td>sideview, eye in hand</td>
+      <td>2</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
+        Libero<br>
+        <span class="links">
+          <a href="https://github.com/Lifelong-Robot-Learning/LIBERO">[code]</a>
+          <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c3c666820ea055a77726d66fc7d447f-Abstract-Datasets_and_Benchmarks.html">[paper]</a>
+        </span>
+      </td>
+      <td>MuJoCo</td>
+      <td>7-DOF Franka</td>
+      <td>frontview, birdview, agentview, sideview</td>
+      <td>130</td>
+      <td>6.5K</td>
+    </tr>
+    <tr>
+      <td>
+        DoorGym<br>
+        <span class="links">
+          <a href="https://github.com/PSVL/DoorGym">[code]</a>
+          <a href="https://arxiv.org/abs/1908.01887">[paper]</a>
+        </span>
+      </td>
+      <td>PyBullet</td>
+      <td>8-DoF BLUE, 7-DoF BLUE, 14-DOF Baxter</td>
+      <td>static, gripperPOV, left shoulder, right shoulder, wrist, front</td>
+      <td>3</td>
+      <td>9K</td>
+    </tr>
+    <tr>
+      <td>
+        RoboMimic<br>
+        <span class="links">
+          <a href="https://github.com/ARISE-Initiative/robomimic">[code]</a>
+          <a href="https://arxiv.org/abs/2108.03298">[paper]</a>
+        </span>
+      </td>
+      <td>MuJoCo</td>
+      <td>7-DOF Franka</td>
+      <td>agentview, eye in hand</td>
+      <td>8</td>
+      <td>1.6K</td>
+    </tr>
+    <tr>
+      <td>
+        Isaac Lab<br>
+        <span class="links">
+          <a href="https://github.com/NVIDIA-Omniverse/IsaacLab">[code]</a>
+        </span>
+      </td>
+      <td>PhysX, MuJoCo, Warp</td>
+      <td>7-DOF Franka, 6-DOF UR5/10/16</td>
+      <td>agentview, topview, eye in hand, sideview</td>
+      <td>5</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
+        RoboCasa<br>
+        <span class="links">
+          <a href="https://github.com/robocasa/robocasa">[code]</a>
+          <a href="https://arxiv.org/abs/2406.02523">[paper]</a>
+        </span>
+      </td>
+      <td>MuJoCo</td>
+      <td>12-DOF Franka</td>
+      <td>center, left, right, frontview, eye in hand</td>
+      <td>100</td>
+      <td>5K</td>
+    </tr>
+    <tr>
+      <td>
+        ManiSkill3<br>
+        <span class="links">
+          <a href="https://github.com/haosulab/ManiSkill3">[code]</a>
+          <a href="https://arxiv.org/abs/2312.03774">[paper]</a>
+        </span>
+      </td>
+      <td>PhysX</td>
+      <td>7-DOF Franka, 6-DOF WidowX-250S, Mobile Base & 7-DOF Fetch</td>
+      <td>agentview, eye in hand</td>
+      <td>20</td>
+      <td>30K</td>
+    </tr>
+    <tr>
+      <td>
+        RoboCAS<br>
+        <span class="links">
+          <a href="https://github.com/yzrobotics/robocas">[code]</a>
+          <a href="https://arxiv.org/abs/2310.08466">[paper]</a>
+        </span>
+      </td>
+      <td>PhysX</td>
+      <td>7-DOF Franka</td>
+      <td>gripperPOV, agentview, static</td>
+      <td>3</td>
+      <td>7.3K</td>
+    </tr>
+    <tr>
+      <td>
+        IKEA-FAE<br>
+        <span class="links">
+          <a href="https://github.com/clvrai/furniture">[code]</a>
+          <a href="https://arxiv.org/abs/1911.07246">[paper]</a>
+        </span>
+      </td>
+      <td>ODE</td>
+      <td>8-DOF Franka, 7-DOF Fetch, 14-DOF Baxter, 6-DOF Jaco</td>
+      <td>-</td>
+      <td>80</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
+        Colosseum<br>
+        <span class="links">
+          <a href="https://github.com/CodexLabsLLC/Colosseum">[code]</a>
+        </span>
+      </td>
+      <td>PyRep</td>
+      <td>7-DOF Franka</td>
+      <td>left shoulder, right shoulder, wrist, front</td>
+      <td>20</td>
+      <td>2K</td>
+    </tr>
+    <tr>
+      <td>
+        D4RL<br>
+        <span class="links">
+          <a href="https://github.com/Farama-Foundation/D4RL">[code]</a>
+          <a href="https://arxiv.org/abs/2004.07219">[paper]</a>
+        </span>
+      </td>
+      <td>MuJoCo</td>
+      <td>7-DOF Franka</td>
+      <td>-</td>
+      <td>4</td>
+      <td>0.8K</td>
+    </tr>
+    <tr>
+      <td>
+        Gymnasium<br>
+        <span class="links">
+          <a href="https://github.com/Farama-Foundation/Gymnasium">[code]</a>
+        </span>
+      </td>
+      <td>MuJoCo</td>
+      <td>9-DoF Franka, Mobile Base & 7-DOF Fetch</td>
+      <td>agentview, gripperPOV, eye in hand</td>
+      <td>7/4</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
+        OmniIsaacGymEnvs<br>
+        <span class="links">
+          <a href="https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs">[code]</a>
+        </span>
+      </td>
+      <td>PhysX</td>
+      <td>7-DOF Franka</td>
+      <td>agentview, topview, eye in hand, sideview</td>
+      <td>5</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
+        CALVIN<br>
+        <span class="links">
+          <a href="https://github.com/mees/calvin">[code]</a>
+          <a href="https://arxiv.org/abs/2112.03227">[paper]</a>
+        </span>
+      </td>
+      <td>PyBullet</td>
+      <td>7-DOF Franka</td>
+      <td>static, gripperPOV</td>
+      <td>34</td>
+      <td>20K</td>
+    </tr>
+    <tr>
+      <td>
+        Orbit<br>
+        <span class="links">
+          <a href="https://github.com/NVIDIA-Omniverse/Orbit">[code]</a>
+        </span>
+      </td>
+      <td>PhysX</td>
+      <td>7-DOF LBR iiwa, 6-DOF UR10, Mobile Base & 7-DOF Franka</td>
+      <td>agentview, topview, eye in hand, sideview</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
+        Habitat Lab<br>
+        <span class="links">
+          <a href="https://github.com/facebookresearch/habitat-lab">[code]</a>
+          <a href="https://arxiv.org/abs/1904.01201">[paper]</a>
+        </span>
+      </td>
+      <td>PyBullet</td>
+      <td>7-DOF Franka, Mobile Base & 7-DOF Fetch/Stretch</td>
+      <td>eye in hand, agentview, sideview</td>
+      <td>6</td>
+      <td>70K</td>
+    </tr>
+  </tbody>
+</table>
+
+### Real robot
 
 
 ## 📜Citation
