@@ -1,17 +1,17 @@
 # A Survey on Diffusion Policy for Robotic Manipulation
 ## Abstract
-![image info](./timeline.png)
 Robotic manipulation systems face challenges in learning effective control policies within complex action spaces and uncertain environments. Recently, diffusion models—originally developed for image generation—have emerged as a promising approach for robotic policy learning. Their ability to model complex multimodal distributions and generate diverse, high-quality outputs positions them as an exciting advancement in the field.
-
+![image info](./timeline.png)
 Since 2022, research on diffusion policies for robotic manipulation has consistently shown superior performance over traditional methods in various tasks.
 
-<img src="./number_of_paper_page.jpg" alt="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." title="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." width="300" />
+<img src="./number_of_paper_page.jpg" alt="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." title="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." width="400" />
 
 
 Despite this growing body of work, there is a significant gap in comprehensive survey papers that thoroughly analyze this rapidly evolving field. 
-To bridge this gap, we present the 📍**first comprehensive analysis of diffusion policies for robotic manipulation**, providing a detailed examination of the latest advancements, challenges, and opportunities in the field. 
 
-🚀 **For a deeper dive, please check out our survey paper** [A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions](https://arxiv.org/abs/).
+To bridge this gap, we present the 📍**first comprehensive analysis of diffusion policies for robotic manipulation**
+
+🚀 For a deeper dive, please check out our survey paper [A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions](https://arxiv.org/abs/).
 
 
 ## 📑Table of Contents
