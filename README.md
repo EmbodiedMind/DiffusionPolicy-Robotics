@@ -1,12 +1,21 @@
-# Diffusion Policy in Robotic Manipulation
-This repository contains a collection of resources and papers on ***Diffusion Models*** for ***Robotic Manipulation***.
-
-🚀 Please check out our survey paper [ Diffusion Policy in Robotic Manipulation](https://arxiv.org/abs/)
-
+# A Survey on Diffusion Policy for Robotic Manipulation
+## Abstract
 ![image info](./timeline.png)
+Robotic manipulation systems face challenges in learning effective control policies within complex action spaces and uncertain environments. Recently, diffusion models—originally developed for image generation—have emerged as a promising approach for robotic policy learning. Their ability to model complex multimodal distributions and generate diverse, high-quality outputs positions them as an exciting advancement in the field.
+
+Since 2022, research on diffusion policies for robotic manipulation has consistently shown superior performance over traditional methods in various tasks.
+
+<img src="./number_of_paper_page.jpg" alt="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." title="The number of papers on diffusion policy for robotic manipulation changes over time, with a deadline of April 2025." width="300" />
+
+
+Despite this growing body of work, there is a significant gap in comprehensive survey papers that thoroughly analyze this rapidly evolving field. 
+To bridge this gap, we present the 📍**first comprehensive analysis of diffusion policies for robotic manipulation**, providing a detailed examination of the latest advancements, challenges, and opportunities in the field. 
+
+🚀 **For a deeper dive, please check out our survey paper** [A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions](https://arxiv.org/abs/).
+
 
 ## 📑Table of Contents
-- 🤖[Diffusion Policy in Robotic Manipulation](#diffusion-policy-in-robotic-manipulation)
+- 🤖[A Survey on Diffusion Policy for Robotic Manipulation](#a-survey-on-diffusion-policy-for-robotic-manipulation)
   - 📑[Table of Contents](#table-of-contents)
   - 📖[Papers](#papers)
     - 📊[Data Representation](#data-representation)
@@ -23,7 +32,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
-  - 🦾[Robot Platforms & Simulation](#robot-platforms--simulation)
+  - 🦾[Platforms & Simulation](#platforms--simulation)
 
   - 📜[Citation](#citation)
 
@@ -256,7 +265,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 - **Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2307.01849)]
 
 
-## 🦾Robot Platforms & Simulation
+## 🦾Platforms & Simulation
 
 ### Simulation Platform
 
