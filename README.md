@@ -23,7 +23,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
-  - 🦾[Simulation Platform & Real-World Robot](#simulation-platform--real--word-robot)
+  - 🦾[Simulation Platform & Real-World Robot](#simulation-platform--real-word-robot)
 
   - 📜[Citation](#citation)
 
