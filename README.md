@@ -9,14 +9,15 @@ Since 2022, research on diffusion policies for robotic manipulation has consiste
 
 <table>
   <tr>
-    <td valign="center">
-      <img src="./number_of_paper_page.jpg" alt="Diffusion Policy Papers Over Time" height="200" />
+    <td>
+      <img src="./number_of_paper_page.jpg" alt="Diffusion Policy Papers Over Time" height="200" width="568" />
     </td>
-    <td valign="center">
-      <img src="./MODEL.jpg" alt="Comparing Architectures of Different Diffusion Policy Models." height="200" />
+    <td>
+      <img src="./MODEL.jpg" alt="Comparing Architectures of Different Diffusion Policy Models." height="200" width="506" />
     </td>
   </tr>
 </table>
+
 
 
 
