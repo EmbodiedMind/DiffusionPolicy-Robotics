@@ -259,8 +259,6 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 ### Simulation Platform
 
-
-</style>
 <table class="custom-table">
   <thead>
     <tr>
