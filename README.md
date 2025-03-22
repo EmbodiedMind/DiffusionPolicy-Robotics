@@ -23,7 +23,8 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
-  - 🛠️[Simulation Platform & Real Robot](#simulation-platform--real-robot)
+  - [Simulation Platform & Real Robot](#simulation-platform--real-robot)
+
   - 📜[Citation](#citation)
 
 ##  📖Papers
@@ -255,9 +256,10 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 - **Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2307.01849)]
 
 
-## 🛠️Simulation Platform & Real Robot
+## Simulation Platform & Real Robot
 
 ### Simulation Platform
+
 
 <table class="custom-table">
   <thead>
