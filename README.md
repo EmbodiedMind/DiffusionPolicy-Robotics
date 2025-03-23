@@ -6,7 +6,7 @@
   <img src="./timeline.png" alt="image info">
 </div>
 
-Since 2022, research on diffusion policies for robotic manipulation has consistently shown superior performance over traditional methods in various tasks. Despite this growing body of work, there is a significant gap in comprehensive survey papers that thoroughly analyze this rapidly evolving field. 
+Since 2022, research on diffusion policy for robotic manipulation has demonstrated consistently superior performance compared to traditional methodologies across diverse tasks. Despite the rapid growth and promising results in this field, there remains a notable absence of comprehensive survey literature that systematically analyzes and synthesizes developments in this evolving research field.
 
 <table>
   <tr>
@@ -21,7 +21,7 @@ Since 2022, research on diffusion policies for robotic manipulation has consiste
 
 
 
-📍 We present the **first comprehensive analysis of diffusion policies for robotic manipulation.** Specifically, we systematically analyze existing methods from three perspectives: data representation, model architecture, and diffusion strategy. For example, from the model architecture perspective, we categorize existing diffusion policy methods into three types: (a) Large Language Model Based Diffusion Policy, (b) Small Size CNN or Transformer Based Diffusion Policy, and (c) VAE / VQ-VAE Based Diffusion Policy.
+📍 We present **the first comprehensive analysis of diffusion policy for robotic manipulation**. Specifically, we systematically analyze existing methods from three perspectives: data representation, model architecture, and diffusion strategy. For example, from the model architecture perspective, we categorize existing diffusion policy methods into three types: (a) Large Language Model Based Diffusion Policy, (b) Small Size CNN or Transformer Based Diffusion Policy, and (c) VAE / VQ-VAE Based Diffusion Policy.
 
 🚀 For a deeper dive, please check out our [survey paper](https://arxiv.org/abs/) **A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions** 
 ## 📑Table of Contents
