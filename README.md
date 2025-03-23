@@ -46,8 +46,8 @@
 
   - 📜[Citation](#citation)
 
-##  📖Papers
-### 📊Data Representation
+##  📖 Papers
+### 📊 Data Representation
 
 #### 2D Representation
 
@@ -111,7 +111,7 @@
 - **StructDiffusion: Object-Centric Diffusion for Semantic Rearrangement of Novel Objects**, RSS 2023. [[paper](https://arxiv.org/abs/2211.04604)] [[code](https://github.com/StructDiffusion/StructDiffusion)]
 
 
- ### 🧠Model Architecture
+ ### 🧠 Model Architecture
 
 #### Large Language Model + Diffusion
 - **ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**, arXiv  2025. [[paper](https://arxiv.org/abs/2502.14420)]
@@ -205,7 +205,7 @@
 - **Learning an Actionable Discrete Diffusion Policy via Large-Scale Actionless Video Pre-Training**, NeurIPS 2024. [[paper](https://arxiv.org/abs/2402.14407)] [[code](https://github.com/tinnerhrhe/VPDD)]
 
 
-### 🌊Diffusion Strategy
+### 🌊 Diffusion Strategy
 
 #### Incorporating Reinforcement Learning
 
@@ -275,7 +275,7 @@
 - **Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2307.01849)]
 
 
-## 🦾Platforms & Simulation
+## 🦾 Platforms & Simulation
 
 ### Simulation Platform
 
@@ -779,7 +779,7 @@
 
 
 
-## 📜Citation
+## 📜 Citation
 ```
 @article{,
   title={Diffusion Policy in Robotic Manipulation},
