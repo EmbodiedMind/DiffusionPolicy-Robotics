@@ -23,7 +23,7 @@ Since 2022, research on diffusion policy for robotic manipulation has demonstrat
 
 📍 We present **the first comprehensive analysis of diffusion policy for robotic manipulation**. Specifically, we systematically analyze existing methods from three perspectives: data representation, model architecture, and diffusion strategy. For example, from the model architecture perspective, we categorize existing diffusion policy methods into three types: (a) Large Language Model Based Diffusion Policy, (b) Small Size CNN or Transformer Based Diffusion Policy, and (c) VAE / VQ-VAE Based Diffusion Policy.
 
-🚀 For a deeper dive, please check out our [survey paper](https://arxiv.org/abs/) **A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions** 
+🚀 For a deeper dive, please check out our [survey paper](https://arxiv.org/abs/): **A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions** 
 ## 📑Table of Contents
 - 🤖[Survey on Diffusion Policy for Robotic Manipulation](#survey-on-diffusion-policy-for-robotic-manipulation)
   - 📑[Table of Contents](#table-of-contents)
