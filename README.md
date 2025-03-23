@@ -558,7 +558,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>WidowX-250 6DOF <a href="#black2023zero">[ref]</a></td>
+      <td>WidowX-250 6DOF <a href="https://docs.trossenrobotics.com/interbotix_xsarms_docs/specifications/wx250s.html">[docs]</a></td>
       <td>Single Arm</td>
       <td>6</td>
       <td>650</td>
@@ -567,7 +567,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>galaxea r1 <a href="#xue2025demogen">[ref]</a></td>
+      <td>galaxea r1 <a href="https://docs.galaxea.ai/Introducing_Galaxea_Robot/product_info/R1/#discover-more">[docs]</a></td>
       <td>Upper Body & Mobile Base</td>
       <td>14</td>
       <td>1400</td>
@@ -576,7 +576,7 @@
       <td>Binocular stereo camera</td>
     </tr>
     <tr>
-      <td>UR5 <a href="#huang2023edge">[ref]</a></td>
+      <td>UR5 <a href="https://www.universal-robots.com/products/ur5e/">[docs]</a></td>
       <td>Single Arm</td>
       <td>6</td>
       <td>850</td>
@@ -585,7 +585,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>RT-1 Robot <a href="#yu2023scaling">[ref]</a></td>
+      <td>RT-1 Robot <a href="#yu2023scaling">[docs]</a></td>
       <td>Single Arm & Mobile Base</td>
       <td>7</td>
       <td>--</td>
@@ -594,7 +594,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>ViperX-300 <a href="#team2024octo">[ref]</a></td>
+      <td>ViperX-300 <a href="https://docs.trossenrobotics.com/interbotix_xsarms_docs/specifications/vx300.html">[docs]</a></td>
       <td>Single Arm</td>
       <td>6</td>
       <td>750</td>
@@ -603,7 +603,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Xarm7 <a href="#yan2024dnact">[ref]</a></td>
+      <td>Xarm7 <a href="https://www.ufactory.cc/xarm-collaborative-robot/">[docs]</a></td>
       <td>Single Arm</td>
       <td>7</td>
       <td>700</td>
@@ -612,7 +612,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>Xarm5 <a href="#chen2023genaug">[ref]</a></td>
+      <td>Xarm5 <a href="https://www.ufactory.cc/xarm-collaborative-robot/">[docs]</a></td>
       <td>Single Arm</td>
       <td>5</td>
       <td>700</td>
@@ -621,7 +621,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>Franka Emika Panda <a href="#ma2024hierarchical">[ref]</a></td>
+      <td>Franka Emika Panda <a href="https://franka.de/documents">[docs]</a></td>
       <td>Single Arm</td>
       <td>7</td>
       <td>850</td>
@@ -630,7 +630,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Franka Research 3 <a href="#haldar2025point">[ref]</a></td>
+      <td>Franka Research 3 <a href="https://franka.de/products/franka-research-3">[docs]</a></td>
       <td>Single Arm</td>
       <td>7</td>
       <td>855</td>
@@ -639,7 +639,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Airbot Play 6-DoF</td>
+      <td>Airbot Play 6-DoF <a href="https://airbots.online/dowload">[docs]</a></td>
       <td>Single Arm</td>
       <td>6</td>
       <td>647</td>
@@ -648,7 +648,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Kinova Gen3 7DoF <a href="#yang2024equibot">[ref]</a></td>
+      <td>Kinova Gen3 7-DoF <a href="https://www.kinovarobotics.com/product/gen3-robots">[docs]</a></td>
       <td>Single Arm</td>
       <td>7</td>
       <td>902</td>
@@ -657,7 +657,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>FANUC LRMate 200iD/7L <a href="#wang2024sparse">[ref]</a></td>
+      <td>FANUC LRMate 200iD/7L <a href="https://www.fanucamerica.com/products/robots/series/lr-mate/lr-mate-200id-7l">[docs]</a></td>
       <td>Single Arm</td>
       <td>6</td>
       <td>911</td>
@@ -666,7 +666,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>ALOHA <a href="#fu2024mobile">[ref]</a></td>
+      <td>ALOHA <a href="https://docs.google.com/document/d/1sgRZmpS7HMcZTPfGy3kAxDrqFMtNNzmK-yVtX5cKYME/edit?tab=t.0">[docs]</a></td>
       <td>Dual Master & Slave Arms + Mobile Base</td>
       <td>6</td>
       <td>750</td>
@@ -675,7 +675,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>ALOHA2 <a href="#aldaco2024aloha">[ref]</a></td>
+      <td>ALOHA2 <a href="https://docs.google.com/document/d/e/2PACX-1vQAr4fcUgOcmp3efQvwHxh1ua9muOuepyQ8ih7F-zncDaT3aGLIm8sHigDQTf7RRtyo4cuMCJ-YMKL9/pub">[docs]</a></td>
       <td>Dual Master & Slave Arms</td>
       <td>6</td>
       <td>750</td>
@@ -684,7 +684,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>Jaco Arm <a href="#liu2022structdiffusion">[ref]</a></td>
+      <td>Jaco Arm <a href="https://www.kinovarobotics.com/product/jaco">[docs]</a></td>
       <td>Single Arm</td>
       <td>7</td>
       <td>--</td>
@@ -693,7 +693,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Galaxea A1</td>
+      <td>Galaxea A1 <a href="https://docs.galaxea.ai/Introducing_Galaxea_Robot/product_info/A1/">[docs]</a></td>
       <td>Single Arm</td>
       <td>6</td>
       <td>700</td>
@@ -702,7 +702,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Kuka LBR iiwa Arm <a href="#huang2024subgoal">[ref]</a></td>
+      <td>Kuka LBR iiwa Arm <a href="https://www.kuka.com/en-us/products/robotics-systems/industrial-robots/lbr-iiwa">[docs]</a></td>
       <td>Single Arm</td>
       <td>7</td>
       <td>800</td>
@@ -711,7 +711,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Mobile Trossen <a href="#black2024pi_0">[ref]</a></td>
+      <td>Mobile Trossen <a href="https://www.trossenrobotics.com/mobile-ai">[docs]</a></td>
       <td>Dual Master & Slave Arms + Mobile Base</td>
       <td>6</td>
       <td>750</td>
@@ -720,7 +720,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>Fibot-4HT <a href="#black2024pi_0">[ref]</a></td>
+      <td>Fibot-4HT <a href="https://www.fibocom.com/en/Products/pro-Fibot-4HT.html">[docs]</a></td>
       <td>Dual Master & Slave Arms + Mobile Base</td>
       <td>6</td>
       <td>744</td>
@@ -729,7 +729,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>Diana 7</td>
+      <td>Diana 7 <a href="https://franka.de/products/diana-7">[docs]</a></td>
       <td>Single Arm</td>
       <td>7</td>
       <td>923</td>
@@ -738,7 +738,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Bimanual Trossen <a href="#black2024pi_0">[ref]</a></td>
+      <td>Bimanual Trossen <a href="https://docs.trossenrobotics.com/aloha_docs/2.0/index.html">[docs]</a></td>
       <td>Dual Master & Slave Arms</td>
       <td>6</td>
       <td>750</td>
@@ -747,7 +747,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>Arx <a href="#black2024pi_0">[ref]</a></td>
+      <td>Arx X5<a href="https://www.arx-x.com/?product/">[docs]</a></td>
       <td>Single Arm</td>
       <td>6</td>
       <td>620</td>
@@ -756,7 +756,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>AgileX Aloha <a href="#liu2024rdt">[ref]</a></td>
+      <td>AgileX Aloha <a href="https://global.agilex.ai/products/cobot-magic">[docs]</a></td>
       <td>Dual Master & Slave Arms + Mobile Base</td>
       <td>6</td>
       <td>--</td>
@@ -765,7 +765,7 @@
       <td>Camera</td>
     </tr>
     <tr>
-      <td>Fourier GR1 <a href="#ze2024generalizable">[ref]</a></td>
+      <td>Fourier GR1 <a href="https://www.fftai.com/products-gr1">[docs]</a></td>
       <td>Humanoid</td>
       <td>--</td>
       <td>1680</td>
