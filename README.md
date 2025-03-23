@@ -26,25 +26,25 @@
 🚀 For a deeper dive, please check out our [survey paper](https://arxiv.org/abs/): **A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions** 
 ## 📑Table of Contents
 - 🤖[Survey on Diffusion Policy for Robotic Manipulation](#survey-on-diffusion-policy-for-robotic-manipulation)
-  - 📑[Table of Contents](#table-of-contents)
-  - 📖[Papers](#papers)
-    - 📊[Data Representation](#data-representation)
+  - 📑[Table of Contents](#-table-of-contents)
+  - 📖[Papers](#-papers)
+    - 📊[Data Representation](#-data-representation)
       - [2D Representation](#2d-representation)
       - [3D Representation](#3d-representation)
       - [Heterogeneous Data](#heterogeneous-data)
-    - 🧠[Model Architecture](#model-architecture)
+    - 🧠[Model Architecture](#-model-architecture)
       - [Large Language Model + Diffusion](#large-language-model--diffusion)
       - [Small Size CNN or Transformer Model + Diffusion](#small-size-cnn-or-transformer-model--diffusion)
       - [VAE / VQ-VAE + Diffusion](#vae--vq-vae--diffusion)
-    - 🌊[Diffusion Strategy](#diffusion-strategy)
+    - 🌊[Diffusion Strategy](#-diffusion-strategy)
       - [Incorporating Reinforcement Learning](#incorporating-reinforcement-learning)
       - [Diffusion Model + Equivariance](#diffusion-model--equivariance)
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
-  - 🦾[Platforms & Simulation](#platforms--simulation)
+  - 🦾[Platforms & Simulation](#-platforms--simulation)
 
-  - 📜[Citation](#citation)
+  - 📜[Citation](#-citation)
 
 ##  📖 Papers
 ### 📊 Data Representation
