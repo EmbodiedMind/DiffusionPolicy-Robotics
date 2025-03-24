@@ -609,7 +609,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>RT-1 Robot <a href="[#yu2023scaling](https://github.com/lucidrains/robotic-transformer-pytorch)">[docs]</a></td>
+      <td>RT-1 Robot <a href="https://github.com/lucidrains/robotic-transformer-pytorch">[docs]</a></td>
       <td>Single Arm & Mobile Base</td>
       <td>7</td>
       <td>--</td>
@@ -690,7 +690,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>ALOHA <a href="[https://docs.google.com/document/d/1sgRZmpS7HMcZTPfGy3kAxDrqFMtNNzmK-yVtX5cKYME/edit?tab=t.0](https://docs.google.com/document/d/1_3yhWjodSNNYlpxkRCPIlvIAaQ76Nqk2wsqhnEVM6Dc/edit?tab=t.0)">[docs]</a></td>
+      <td>ALOHA <a href="https://docs.google.com/document/d/1_3yhWjodSNNYlpxkRCPIlvIAaQ76Nqk2wsqhnEVM6Dc/edit?tab=t.0">[docs]</a></td>
       <td>Dual Master & Slave Arms + Mobile Base</td>
       <td>6</td>
       <td>750</td>
@@ -762,7 +762,7 @@
       <td>--</td>
     </tr>
     <tr>
-      <td>Bimanual Trossen <a href="[https://docs.trossenrobotics.com/aloha_docs/2.0/index.html](https://www.trossenrobotics.com/aloha-stationary)">[docs]</a></td>
+      <td>Bimanual Trossen <a href="https://www.trossenrobotics.com/aloha-stationary">[docs]</a></td>
       <td>Dual Master & Slave Arms</td>
       <td>6</td>
       <td>750</td>
