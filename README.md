@@ -42,7 +42,7 @@
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
-  - 🦾[Platforms & Simulation](#-platforms--simulation)
+  - 🦾[Simulation Platforms & Real-World Robot](#-platforms--simulation)
 
   - 📜[Citation](#-citation)
 
@@ -275,9 +275,9 @@
 - **Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning**, ICRA 2024. [[paper](https://arxiv.org/abs/2307.01849)]
 
 
-## 🦾 Platforms & Simulation
+## 🦾 Simulation Platforms & Real-World Robot
 
-### Simulation Platform
+### Simulation Platforms
 
 
 <table class="custom-table">
