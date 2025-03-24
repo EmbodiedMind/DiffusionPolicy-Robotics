@@ -47,9 +47,9 @@
   - 📜[Citation](#-citation)
 
 ##  📖 Papers
-### 📊 Data Representation
+### 📊 Data Representations
 
-#### 2D Representation
+#### 2D Representations
 
 - **LATENT ACTION PRETRAINING FROM VIDEOS**, ICLR 2025. [[paper](https://arxiv.org/abs/2410.11758)] [[code](https://github.com/LatentActionPretraining/LAPA)]
 
@@ -86,7 +86,7 @@
 
 
 
-#### 3D Representation
+#### 3D Representations
 - **ADAMANIP: ADAPTIVE ARTICULATED OBJECT MANIPULATION ENVIRONMENTS AND POLICY LEARNING**, ICLR 2025. [[paper](https://arxiv.org/abs/2502.11124)]
 
 - **GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy**, CoRL 2024. [[paper](https://arxiv.org/abs/2410.17488)] [[code](https://github.com/WangYixuan12/gild)]
