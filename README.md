@@ -29,16 +29,16 @@
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Papers](#-papers)
     - 📊[Data Representation](#-data-representation)
-      - [2D Representation](#2d-representation)
-      - [3D Representation](#3d-representation)
+      - [2D Representations](#2d-representations)
+      - [3D Representations](#3d-representations)
       - [Heterogeneous Data](#heterogeneous-data)
     - 🧠[Model Architecture](#-model-architecture)
-      - [Large Language Model + Diffusion](#large-language-model--diffusion)
-      - [Small Size CNN or Transformer Model + Diffusion](#small-size-cnn-or-transformer-model--diffusion)
-      - [VAE / VQ-VAE + Diffusion](#vae--vq-vae--diffusion)
+      - [Large Language Model Baesd Diffusion Policy](#large-language-model-based-diffusion-policy)
+      - [Small Size CNN or Transformer Model Based Diffusion Policy](#small-size-cnn-or-transformer-model-based-diffusion-policy)
+      - [VAE / VQ-VAE Based Diffusion Policy](#vae--vq-vae-based-diffusion-policy)
     - 🌊[Diffusion Strategy](#-diffusion-strategy)
       - [Incorporating Reinforcement Learning](#incorporating-reinforcement-learning)
-      - [Diffusion Model + Equivariance](#diffusion-model--equivariance)
+      - [Combined with Equivariance](#combined-with-equivariance)
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
@@ -113,7 +113,7 @@
 
  ### 🧠 Model Architecture
 
-#### Large Language Model + Diffusion
+#### Large Language Model Baesd Diffusion Policy
 - **ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**, arXiv  2025. [[paper](https://arxiv.org/abs/2502.14420)]
 - **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2410.07864)] [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)]
 - **ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.14420)]
@@ -136,7 +136,7 @@
 
 - **Compositional Foundation Models for Hierarchical Planning**, NeurIPS 2023. [[paper](https://arxiv.org/abs/2309.08587)] [[code](https://github.com/anuragajay/hip)]
 
-#### Small Size CNN or Transformer Model + Diffusion
+#### Small Size CNN or Transformer Model Based Diffusion Policy
 
 
 - **S²-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09389)]
@@ -196,7 +196,7 @@
 - **Planning with Diffusion for Flexible Behavior Synthesis**, ICML 2022. [[paper](https://arxiv.org/abs/2205.09991)] [[code](https://github.com/jannerm/diffuser)]
 
 
-#### VAE / VQ-VAE + Diffusion
+#### VAE / VQ-VAE Based Diffusion Policy
 
 - **LATENT ACTION PRETRAINING FROM VIDEOS**, ICLR 2025. [[paper](https://arxiv.org/abs/2410.11758)] [[code](https://github.com/LatentActionPretraining/LAPA)]
 - **Universal Actions for Enhanced Embodied Foundation Models**, CVPR 2025. [[paper](https://arxiv.org/abs/2501.10105)] [[code](https://github.com/2toinf/UniAct)]
@@ -226,7 +226,7 @@
 
 
 
-#### Diffusion Model + Equivariance
+#### Combined with Equivariance
 
 - **Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation**, CVPR 2024. [[paper](https://arxiv.org/abs/2309.02685)] [[code](https://github.com/tomato1mule/diffusion_edf)]
 - **EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning**, CoRL 2024. [[paper](https://arxiv.org/abs/2407.01479)] [[code](https://github.com/yjy0625/equibot)]
