@@ -47,7 +47,7 @@
   - 📜[Citation](#-citation)
 
 ##  📖 Papers
-### 📊 Data Representations
+### 📊 Data Representation
 
 #### 2D Representations
 
