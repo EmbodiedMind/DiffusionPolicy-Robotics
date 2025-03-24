@@ -42,7 +42,7 @@
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
-  - 🦾[Simulation Platforms & Real-World Robot](#-simulation-platforms--real-world-robot)
+  - 🦾[Simulation Platforms & Real-World Robots](#-simulation-platforms--real-world-robot)
 
   - 📜[Citation](#-citation)
 
@@ -566,7 +566,7 @@
   </tbody>
 </table>
 
-### Real-World Robot
+### Real-World Robots
 
 <table class="custom-table">
   <thead>
