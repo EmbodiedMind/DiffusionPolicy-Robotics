@@ -24,7 +24,7 @@
 📍 We present **the first comprehensive analysis of diffusion policy for robotic manipulation**. Specifically, we systematically analyze existing methods from three perspectives: data representation, model architecture, and diffusion strategy. For example, from the model architecture perspective, we categorize existing diffusion policy methods into three types: (a) Large Language Model Based Diffusion Policy, (b) Small Size CNN or Transformer Based Diffusion Policy, and (c) VAE / VQ-VAE Based Diffusion Policy.
 
 🚀 For a deeper dive, please check out our [survey paper](https://arxiv.org/abs/): **A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions** 
-## 📑Table of Contents
+## 📑 Table of Contents
 - 🤖[Survey on Diffusion Policy for Robotic Manipulation](#survey-on-diffusion-policy-for-robotic-manipulation)
   - 📑[Table of Contents](#-table-of-contents)
   - 📖[Papers](#-papers)
@@ -33,7 +33,7 @@
       - [3D Representations](#3d-representations)
       - [Heterogeneous Data](#heterogeneous-data)
     - 🧠[Model Architecture](#-model-architecture)
-      - [Large Language Model Baesd Diffusion Policy](#large-language-model-based-diffusion-policy)
+      - [Large Language Model Based Diffusion Policy](#large-language-model-based-diffusion-policy)
       - [Small Size CNN or Transformer Model Based Diffusion Policy](#small-size-cnn-or-transformer-model-based-diffusion-policy)
       - [VAE / VQ-VAE Based Diffusion Policy](#vae--vq-vae-based-diffusion-policy)
     - 🌊[Diffusion Strategy](#-diffusion-strategy)
@@ -42,7 +42,7 @@
       - [Accelerated Sampling or Denoising Strategies](#accelerated-sampling-or-denoising-strategies)
       - [Employing Classifier (free) Guidance](#employing-classifier-free-guidance)
       - [Integration with Self-Supervised Learning](#integration-with-self-supervised-learning)
-  - 🦾[Simulation Platforms & Real-World Robot](#-platforms--simulation)
+  - 🦾[Simulation Platforms & Real-World Robot](#-simulation-platforms--real-world-robot)
 
   - 📜[Citation](#-citation)
 
