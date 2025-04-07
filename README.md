@@ -806,10 +806,13 @@
 
 ## 📜 Citation
 ```
-@article{,
-  title={Diffusion Policy in Robotic Manipulation},
-  author={},
-  journal={arXiv preprint },
-  year={2025}
-}
+ @article{Song_2025,
+title={A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions},
+url={http://dx.doi.org/10.36227/techrxiv.174378343.39356214/v1},
+DOI={10.36227/techrxiv.174378343.39356214/v1},
+publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+author={Song, Mingchen and Deng, Xiang and Zhou, Zhiling and Wei, Jie and Guan, Weili and Nie, Liqiang},
+year={2025},
+month=apr }
+
 ```
