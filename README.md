@@ -3,7 +3,7 @@
 
 
 <div style="text-align: center;">
-  <img src="./timeline.png" alt="image info">
+  <img src="./timeline.jpg" alt="image info">
 </div>
 
 🔥 Since 2022, research on diffusion policies for robotic manipulation has demonstrated consistently superior performance compared to traditional methodologies across diverse tasks. Despite the rapid growth and promising results in this field, there remains a notable absence of comprehensive survey literature that systematically analyzes and synthesizes developments in this evolving research field.
@@ -14,7 +14,7 @@
       <img src="./number_of_paper_page.jpg" alt="Diffusion Policy Papers Over Time" />
     </td>
     <td>
-      <img src="./MODEL.jpg" alt="Comparing Architectures of Different Diffusion Policy Models." />
+      <img src="./model.jpg" alt="Comparing Architectures of Different Diffusion Policy Models." />
     </td>
   </tr>
 </table>
