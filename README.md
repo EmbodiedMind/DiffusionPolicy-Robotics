@@ -103,7 +103,8 @@
 
 
 #### Heterogeneous Data
-- **Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**, RSS 2025. [[paper](https://arxiv.org/abs/2504.02792)] [[code](https://github.com/WEIRDLabUW/unified-world-model)] [[website](https://weirdlabuw.github.io/uwm/)]
+- **Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations**, RSS 2025. [[paper](https://arxiv.org/abs/2504.02792)] [[code](https://github.com/WEIRDLabUW/unified-world-model)] [[website](https://weirdlabuw.github.io/uwm/)]
+- **Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**, RA‑L 2025. [[paper](https://arxiv.org/abs/2503.03998)] [[code](https://github.com/JeonHoKang/Diffusion_Policy_with_Visual_Force_CrossAttn)] [[website](https://rros-lab.github.io/diffusion-with-force.github.io/)]
 - **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2410.07864)] [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[website](https://rdt-robotics.github.io/rdt-robotics/)]
 - **Universal Actions for Enhanced Embodied Foundation Models**, arXiv 2025. [[paper](https://arxiv.org/abs/2501.10105)] [[code](https://github.com/2toinf/UniAct)] [[website](https://2toinf.github.io/UniAct/)]
 - **Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**, NeurIPS 2024. [[paper](https://arxiv.org/abs/2409.20537)] [[code](https://github.com/liruiw/HPT)] [[website](https://liruiw.github.io/hpt/)]
@@ -114,15 +115,20 @@
 
 
 #### 3D Representations
-- **ADAMANIP: ADAPTIVE ARTICULATED OBJECT MANIPULATION ENVIRONMENTS AND POLICY LEARNING**, ICLR 2025. [[paper](https://arxiv.org/abs/2502.11124)]
 
+- **Enhancing Exploration with Diffusion Policies in Hybrid Off‑Policy RL: Application to Non‑Prehensile Manipulation**, RA‑L 2025. [[paper](https://arxiv.org/abs/2411.14913)] [[website](https://leh2rng.github.io/hydo/)]
+
+- **ADAMANIP: ADAPTIVE ARTICULATED OBJECT MANIPULATION ENVIRONMENTS AND POLICY LEARNING**, ICLR 2025. [[paper](https://arxiv.org/abs/2502.11124)]
+- **AffordDP: Generalizable Diffusion Policy with Transferable Affordance**, CVPR 2025. [[paper](https://arxiv.org/abs/2412.03142)] [[code](https://github.com/SshiJwu/AffordDP)] [[website](https://afforddp.github.io/)]
+- **PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation**, CVPR 2025. [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33943)]
 - **GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy**, CoRL 2024. [[paper](https://arxiv.org/abs/2410.17488)] [[code](https://github.com/WangYixuan12/gild)]
 - **Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**, arXiv 2024. [[paper](https://arxiv.org/abs/2410.10803)] [[code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 - **3D Diffusion Policy**, RSS 2024. [[paper](https://arxiv.org/abs/2403.03954)] [[code](https://github.com/YanjieZe/3D-Diffusion-Policy)] [[website](https://3d-diffusion-policy.github.io/)]
+- **DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability**, IROS 2024. [[paper](https://arxiv.org/abs/2306.13196)] [[website](https://sites.google.com/view/dimsam-tamp)]
 - **3D Diffuser Actor: Policy Diffusion with 3D Scene Representations**, CoRL 2024. [[paper](https://arxiv.org/abs/2402.10885)] [[code](https://github.com/nickgkan/3d_diffuser_actor)] [[website](https://3d-diffuser-actor.github.io/?utm_source=chatgpt.com)]
 
 - **DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands**, arXiv 2024. [[paper](https://arxiv.org/abs/2407.09899)]
-- **DexDiffuser: Generating Dexterous Grasps with Diffusion Models**, arXiv 2024. [[paper](https://arxiv.org/abs/2402.02989)] [[code](https://github.com/YuLiHN/DexDiffuser)] [[website](https://yulihn.github.io/DexDiffuser_page/)]
+- **DexDiffuser: Generating Dexterous Grasps with Diffusion Models**, RA-L 2024. [[paper](https://arxiv.org/abs/2402.02989)] [[code](https://github.com/YuLiHN/DexDiffuser)] [[website](https://yulihn.github.io/DexDiffuser_page/)]
 - **ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation**, arXiv 2024. [[paper](https://arxiv.org/abs/2406.01586)] [[code](https://github.com/ManiCM-fast/ManiCM)] [[website](https://manicm-fast.github.io/)]
 - **Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**, CVPR 2024. [[paper](https://arxiv.org/abs/2403.03890)] [[code](https://github.com/dyson-ai/hdp)] [[website](https://yusufma03.github.io/projects/hdp/)]
 - **DNAct: Diffusion Guided Multi-Task 3D Policy Learning**, arXiv 2024. [[paper](https://arxiv.org/abs/2403.04115)]
@@ -147,7 +153,7 @@
 - **ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**, arXiv  2025. [[paper](https://arxiv.org/abs/2502.14420)]
 - **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2410.07864)] [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[website](https://rdt-robotics.github.io/rdt-robotics/)]
 
-- **TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2409.12514)]
+- **TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation**, RA-L 2025. [[paper](https://arxiv.org/abs/2409.12514)]
 - **LATENT ACTION PRETRAINING FROM VIDEOS**, ICLR 2025. [[paper](https://arxiv.org/abs/2410.11758)] [[code](https://github.com/LatentActionPretraining/LAPA)] [[website](https://latentactionpretraining.github.io/)]
 - **DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.16932)]
 
@@ -169,10 +175,11 @@
 
 #### Small Size CNN or Transformer Model Based Diffusion Policy
 
-- **Hierarchical Diffusion Policy: Manipulation Trajectory Generation via Contact Guidance**, IRO 2025. [[paper](https://arxiv.org/abs/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
+- **Hierarchical Diffusion Policy: Manipulation Trajectory Generation via Contact Guidance**, TRO 2025. [[paper](https://arxiv.org/abs/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
 - **Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**, ICML 2025. [[paper](https://arxiv.org/abs/2412.14803)] [[code](https://github.com/roboterax/video-prediction-policy)] [[website](https://video-prediction-policy.github.io)]
 - **Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**, ICML 2025. [[paper](https://arxiv.org/abs/2412.12953)] [[code](https://github.com/intuitive-robots/MoDE_Diffusion_Policy)]
 - **Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**, RSS 2025. [[paper](https://arxiv.org/abs/2503.02881)] [[code](https://github.com/xiaoxiaoxh/reactive_diffusion_policy)] [[website](https://reactive-diffusion-policy.github.io)]
+- **Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation**, CVPR 2025. [[paper](https://arxiv.org/abs/2503.10743)]
 - **MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**, RSS 2025. [[paper](https://arxiv.org/abs/2503.20384)] 
 - **S²-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09389)] 
 - **Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.10040)]
@@ -202,7 +209,7 @@
 - **Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**, CVPR 2024. [[paper](https://arxiv.org/abs/2403.03890)] [[code](https://github.com/dyson-ai/hdp)] [[website](https://yusufma03.github.io/projects/hdp/)]
 
 - **DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands**, arXiv 2024. [[paper](https://arxiv.org/abs/2407.09899)] 
-- **DexDiffuser: Generating Dexterous Grasps with Diffusion Models**, arXiv 2024. [[paper](https://arxiv.org/abs/2402.02989)] [[code](https://github.com/YuLiHN/DexDiffuser)] [[website](https://yulihn.github.io/DexDiffuser_page/)]
+- **DexDiffuser: Generating Dexterous Grasps with Diffusion Models**, RA-L 2024. [[paper](https://arxiv.org/abs/2402.02989)] [[code](https://github.com/YuLiHN/DexDiffuser)] [[website](https://yulihn.github.io/DexDiffuser_page/)]
 - **Sparse Diffusion Policy: A Sparse, Reusable, and Flexible Policy for Robot Learning**, CoRL 2024. [[paper](https://arxiv.org/abs/2407.01531)] [[code](https://github.com/AnthonyHuo/SDP)]
 
 - **Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multi-modal Prompts**, CVPR 2024. [[paper](https://arxiv.org/abs/2310.09676)]
@@ -246,10 +253,14 @@
 
 #### Incorporating Reinforcement Learning
 
+- **Enhancing Exploration with Diffusion Policies in Hybrid Off‑Policy RL: Application to Non‑Prehensile Manipulation**, RA‑L 2025. [[paper](https://arxiv.org/abs/2411.14913)] [[website](https://leh2rng.github.io/hydo/)]
 
 - **Diffusion Policy Policy Optimization**, ICLR 2025. [[paper](https://arxiv.org/abs/2409.00588)] [[code](https://github.com/irom-princeton/dppo)] [[website](https://diffusion-ppo.github.io/)]
+- **DASP: Hierarchical Offline Reinforcement Learning via Diffusion Autodecoder and Skill Primitive**, RA-L 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10816163)] 
 - **Diffusion Reward: Learning Rewards via Conditional Video Diffusion**, ECCV 2024. [[paper](https://arxiv.org/abs/2312.14134)] [[code](https://github.com/TEA-Lab/diffusion_reward)] [[website](https://diffusion-reward.github.io/)]
-
+  
+- **Off-dynamics Conditional Diffusion Planners**, IROS 2024. [[paper](https://arxiv.org/abs/2410.12238)]
+  
 - **Reasoning with Latent Diffusion in Offline Reinforcement Learning**, ICLR 2024. [[paper](https://arxiv.org/abs/2309.06599)]
 
 - **Learning a Diffusion Model Policy from Rewards via Q-Score Matching**, ICML 2024. [[paper](https://arxiv.org/abs/2312.11752)] [[code](https://github.com/Alescontrela/score_matching_rl)]
@@ -264,12 +275,15 @@
 
 #### Combined with Equivariance
 
+- **Diffusion for Multi-Embodiment Grasping**, RA-L 2025. [[paper](https://arxiv.org/abs/2410.18835)]
 - **Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation**, CVPR 2024. [[paper](https://arxiv.org/abs/2309.02685)] [[code](https://github.com/tomato1mule/diffusion_edf)]
 - **EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning**, CoRL 2024. [[paper](https://arxiv.org/abs/2407.01479)] [[code](https://github.com/yjy0625/equibot)] [[website](https://equi-bot.github.io/)]
+- **Equivariant Diffusion Policy**, CoRL 2024. [[paper](https://arxiv.org/abs/2407.01812)] [[code](https://github.com/pointW/equidiff)] [[website](https://equidiff.github.io/)]
 - **EDGI: Equivariant Diffusion for Planning with Embodied Agents**, NeurIPS 2023. [[paper](https://arxiv.org/abs/2303.12410)]
 
 
 #### Accelerated Sampling or Denoising Strategies
+- **Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training**, RSS 2025. [[paper](https://arxiv.org/abs/2502.03822)]
 - **Diffusion Policy Policy Optimization**, ICLR 2025. [[paper](https://arxiv.org/abs/2409.00588)] [[code](https://github.com/irom-princeton/dppo)] [[website](https://diffusion-ppo.github.io/)]
 
 - **On-Device Diffusion Transformer Policy for Efficient Robot Manipulation**, ICCV 2025. [[paper](https://arxiv.org/abs/2508.00697)]
@@ -299,6 +313,8 @@
 
 - **ReorientDiff: Diffusion Model based Reorientation for Object Manipulation**, ICRA 2024. [[paper](https://arxiv.org/abs/2303.12700)] [[code](https://github.com/UtkarshMishra04/ReorientDiff)] [[website](https://umishra.me/ReorientDiff/)]
 - **Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design**, CoRL 2024. [[paper](https://arxiv.org/abs/2402.15038)] [[code](https://github.com/real-stanford/dgdm)] [[website](https://dgdm-robot.github.io/)]
+- **DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability**, IROS 2024. [[paper](https://arxiv.org/abs/2306.13196)] [[website](https://sites.google.com/view/dimsam-tamp)]
+- **APEX: Ambidextrous Dual‑Arm Robotic Manipulation Using Collision‑Free Generative Diffusion Models**, IROS 2024. [[paper](https://arxiv.org/abs/2404.02284)] [[website](https://sites.google.com/view/apex-dual-arm/home)]
 - **SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution**, CVPR 2024. [[paper](https://arxiv.org/abs/2312.11598)] [[code](https://github.com/Liang-ZX/SkillDiffuser)] [[website](https://skilldiffuser.github.io/)]
 - **Goal-Conditioned Imitation Learning using Score-based Diffusion Policies**, RSS 2023. [[paper](https://arxiv.org/abs/2304.02532)] [[code](https://github.com/intuitive-robots/beso)] [[website](https://intuitive-robots.github.io/beso-website/)]
 
