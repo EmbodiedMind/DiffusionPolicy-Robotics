@@ -103,6 +103,7 @@
 
 
 #### Heterogeneous Data
+- **Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**, RSS 2025. [[paper](https://arxiv.org/abs/2504.02792)] [[code](https://github.com/WEIRDLabUW/unified-world-model)] [[website](https://weirdlabuw.github.io/uwm/)]
 - **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2410.07864)] [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[website](https://rdt-robotics.github.io/rdt-robotics/)]
 - **Universal Actions for Enhanced Embodied Foundation Models**, arXiv 2025. [[paper](https://arxiv.org/abs/2501.10105)] [[code](https://github.com/2toinf/UniAct)] [[website](https://2toinf.github.io/UniAct/)]
 - **Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**, NeurIPS 2024. [[paper](https://arxiv.org/abs/2409.20537)] [[code](https://github.com/liruiw/HPT)] [[website](https://liruiw.github.io/hpt/)]
@@ -140,6 +141,9 @@
  ### 🧠 Model Architecture
 
 #### Large Language Model Based Diffusion Policy
+
+- **DISCO: Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting**, RA-L  2025. [[paper](https://arxiv.org/abs/2406.09767)]
+- **CodeDiffuser: Attention‑Enhanced Diffusion Policy via VLM‑Generated Code for Instruction Ambiguity**, RSS  2025. [[paper](https://arxiv.org/abs/2506.16652)]
 - **ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**, arXiv  2025. [[paper](https://arxiv.org/abs/2502.14420)]
 - **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2410.07864)] [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[website](https://rdt-robotics.github.io/rdt-robotics/)]
 
@@ -165,13 +169,19 @@
 
 #### Small Size CNN or Transformer Model Based Diffusion Policy
 
-
+- **Hierarchical Diffusion Policy: Manipulation Trajectory Generation via Contact Guidance**, IRO 2025. [[paper](https://arxiv.org/abs/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
+- **Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**, ICML 2025. [[paper](https://arxiv.org/abs/2412.14803)] [[code](https://github.com/roboterax/video-prediction-policy)] [[website](https://video-prediction-policy.github.io)]
+- **Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**, ICML 2025. [[paper](https://arxiv.org/abs/2412.12953)] [[code](https://github.com/intuitive-robots/MoDE_Diffusion_Policy)]
+- **Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**, RSS 2025. [[paper](https://arxiv.org/abs/2503.02881)] [[code](https://github.com/xiaoxiaoxh/reactive_diffusion_policy)] [[website](https://reactive-diffusion-policy.github.io)]
+- **MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**, RSS 2025. [[paper](https://arxiv.org/abs/2503.20384)] 
 - **S²-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09389)] 
 - **Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.10040)]
 - **The Ingredients for Robotic Diffusion Transformers**, ICRA 2025. [[paper](https://arxiv.org/abs/2410.10088)] [[code](https://github.com/sudeepdasari/dit-policy)] [[website](https://dit-policy.github.io/)]
 - **MTDP: Modulated Transformer Diffusion Policy Model**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09029)]
 
 - **Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.16707)] [[code](https://github.com/yunhaif/reflect-vlm)] [[website](https://reflect-vlm.github.io/)]
+- **Video Generators are Robot Policies**, arXiv 2025. [[paper](https://arxiv.org/abs/2508.00795)]
+- 
 - **ALOHA Unleashed: a transformer-based learning architecture trained with a diffusion loss**, CoRL 2024. [[paper](https://arxiv.org/abs/2410.13126)] [[code](https://github.com/aloha-unleashed/aloha_unleashed)] [[website](https://aloha-unleashed.github.io/)]
 
 - **Diffusion Policy for Collision Avoidance in a Two-Arm Robot Setup**, ETH RC 2024. [[paper](https://www.research-collection.ethz.ch/handle/20.500.11850/675013)] 
@@ -261,6 +271,8 @@
 
 #### Accelerated Sampling or Denoising Strategies
 - **Diffusion Policy Policy Optimization**, ICLR 2025. [[paper](https://arxiv.org/abs/2409.00588)] [[code](https://github.com/irom-princeton/dppo)] [[website](https://diffusion-ppo.github.io/)]
+
+- **On-Device Diffusion Transformer Policy for Efficient Robot Manipulation**, ICCV 2025. [[paper](https://arxiv.org/abs/2508.00697)]
 - **Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09649)]
 
 - **ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation**, arXiv 2024. [[paper](https://arxiv.org/abs/2406.01586)] [[code](https://github.com/ManiCM-fast/ManiCM)] [[website](https://manicm-fast.github.io/)]
