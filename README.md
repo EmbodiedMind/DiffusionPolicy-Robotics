@@ -60,7 +60,7 @@
 - **Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.20391)] [[code](https://github.com/siddhanthaldar/Point-Policy)] [[website](https://point-policy.github.io/)]
 - **SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation**, ICRA 2025. [[paper](https://arxiv.org/abs/2411.00965)] [[code](https://github.com/NVlabs/object_centric_diffusion)] [[website](https://nvlabs.github.io/object_centric_diffusion/)]
 - **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2410.07864)] [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[website](https://rdt-robotics.github.io/rdt-robotics/)]
-- **SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation**, ICRA 2025. [[paper](https://arxiv.org/abs/2411.00965)] [[code](https://github.com/NVlabs/object_centric_diffusion)] [[website](https://nvlabs.github.io/object_centric_diffusion/)]
+
 - **MTDP: Modulated Transformer Diffusion Policy Model**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09029)]
 - **S²-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09389)] 
 - **GEVRM：Goal-Expressive Video Generation Model For Robust Visual Manipulation**, ICLR 2025. [[paper](https://arxiv.org/abs/2502.09268)]
@@ -183,7 +183,7 @@
 
 #### Small Size CNN or Transformer Model Based Diffusion Policy
 
-- **Hierarchical Diffusion Policy: Manipulation Trajectory Generation via Contact Guidance**, TRO 2025. [[paper](https://arxiv.org/abs/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
+- **Hierarchical Diffusion Policy: Manipulation Trajectory Generation via Contact Guidance**, T-RO 2025. [[paper](https://arxiv.org/abs/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
 - **Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**, ICML 2025. [[paper](https://arxiv.org/abs/2412.14803)] [[code](https://github.com/roboterax/video-prediction-policy)] [[website](https://video-prediction-policy.github.io)]
 - **Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**, ICML 2025. [[paper](https://arxiv.org/abs/2412.12953)] [[code](https://github.com/intuitive-robots/MoDE_Diffusion_Policy)]
 - **Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**, RSS 2025. [[paper](https://arxiv.org/abs/2503.02881)] [[code](https://github.com/xiaoxiaoxh/reactive_diffusion_policy)] [[website](https://reactive-diffusion-policy.github.io)]
@@ -193,6 +193,7 @@
 - **S²-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09389)] 
 - **Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.10040)]
 - **The Ingredients for Robotic Diffusion Transformers**, ICRA 2025. [[paper](https://arxiv.org/abs/2410.10088)] [[code](https://github.com/sudeepdasari/dit-policy)] [[website](https://dit-policy.github.io/)]
+- **Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**, ICRA 2025. [[paper](https://arxiv.org/abs/2312.10008)] [[code](https://github.com/ScheiklP/movement-primitive-diffusion)] [[website](https://scheiklp.github.io/movement-primitive-diffusion/)]
 - **Learning Coordinated Bimanual Manipulation Policies Using State Diffusion and Inverse Dynamics Models**, ICRA 2025. [[paper](https://arxiv.org/abs/2503.23271)] [[code](https://github.com/haonan16/state_diff)] [[website](https://haonan16.github.io/coord_bimanual_page/)]
 - **MTDP: Modulated Transformer Diffusion Policy Model**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09029)]
 
