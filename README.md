@@ -58,6 +58,7 @@
 - **Latent Action Pretraining from Videos**, ICLR 2025. [[paper](https://arxiv.org/abs/2410.11758)] [[code](https://github.com/LatentActionPretraining/LAPA)] [[website](https://latentactionpretraining.github.io/)]
 - **Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation**, CVPR 2025. [[paper](https://arxiv.org/abs/2406.14235)] [[website](https://jiaming-zhou.github.io/projects/HumanRobotAlign/)]
 - **Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.20391)] [[code](https://github.com/siddhanthaldar/Point-Policy)] [[website](https://point-policy.github.io/)]
+- **SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation**, ICRA 2025. [[paper](https://arxiv.org/abs/2411.00965)] [[code](https://github.com/NVlabs/object_centric_diffusion)] [[website](https://nvlabs.github.io/object_centric_diffusion/)]
 - **RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**, arXiv 2025. [[paper](https://arxiv.org/abs/2410.07864)] [[code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[website](https://rdt-robotics.github.io/rdt-robotics/)]
 - **SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation**, ICRA 2025. [[paper](https://arxiv.org/abs/2411.00965)] [[code](https://github.com/NVlabs/object_centric_diffusion)] [[website](https://nvlabs.github.io/object_centric_diffusion/)]
 - **MTDP: Modulated Transformer Diffusion Policy Model**, arXiv 2025. [[paper](https://arxiv.org/abs/2502.09029)]
